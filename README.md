@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+
+1. primeiro dia 
+2. segundo dia 
+3. terceiro dia
+
+* item 1
+* item 2
+* item 3
+
+[] item k
+[] item caixa 
+[] item bola
+
+
 <!--
 **kelyfernandes/kelyfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
