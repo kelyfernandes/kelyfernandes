@@ -1,0 +1,18 @@
+class Pessoa():
+
+    def __init__(self, nome, nascimento):
+        self.nome = nome 
+        self.nascimento = nascimento
+    
+    def andar(self):
+        print(self.nome)
+
+nascimento = input('26/02/1979')   
+var = Pessoa(nome='Kely', nascimento=nascimento)
+
+print(var.nome)
+var.andar()
+
+var.nome = 'outro nome'
+print(var.nome)
+var.andar()
