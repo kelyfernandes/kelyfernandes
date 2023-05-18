@@ -1,0 +1,15 @@
+class Pessoa():
+    nome = 'kelly'
+    nascimento = '26/02/1979'
+
+    def andar(self):
+        print(self.nome)
+
+
+var = pessoa(nome='kely', nascimento='26/02/1979')
+print(var.nome)
+var.andar()
+
+var.nome = 'outro nome'
+print(var.nome)
+var.andar('kely')
